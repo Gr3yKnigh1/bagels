@@ -1,0 +1,12 @@
+# Binaries
+bin/
+
+# Virtualenv
+venv/
+
+# Python cache
+**/__pycache__/
+*.pyi
+
+# Mypy
+**/.mypy_cache
