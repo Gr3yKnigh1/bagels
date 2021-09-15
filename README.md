@@ -1,5 +1,7 @@
 # Bagels
 
+My implementation of Bagels game.
+
 Bagels, a deductive logic game.
 
 I am thinking of a 3-digit number. Try to guess what it is.
