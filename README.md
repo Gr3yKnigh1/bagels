@@ -16,4 +16,7 @@ You have 10 guesses to get it.
 
 # Run
 
-`python bagels.py`
+```shell
+python bagels.py
+```
+
